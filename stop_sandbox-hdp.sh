@@ -42,7 +42,7 @@ spinner()
 
 result=$(eval $STOPCOMMAND)
 
-sleep 5 &
+sleep 2m &
 spinner
 
 echo $result
